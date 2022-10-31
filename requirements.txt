@@ -1,0 +1,8 @@
+ipykernel
+pyautogui
+opencv-python
+numpy
+matplotlib
+tensorflow
+mediapipe
+sklearn

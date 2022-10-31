@@ -1,0 +1,9 @@
+# References:
+- https://github.com/nicknochnack/TFODCourse
+- https://www.youtube.com/watch?v=-RtVZsCvXAQ&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K&index=5
+- https://github.com/AarohiSingla/Video-Classifier-Using-CNN-and-RNN
+
+# Other Optional Resources
+- wget https://medium.com/nerd-for-tech/using-wget-command-in-windows-10-environment-d766b8f526e9
+- https://www.howtogeek.com/devops/how-to-download-single-files-from-a-github-repository/
+- virtual environment with jupyter lab https://www.linkedin.com/pulse/how-use-virtual-environment-inside-jupyter-lab-sina-khoshgoftar
